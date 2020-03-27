@@ -215,6 +215,24 @@
           null
         ]
       },
+      "/Users/marianaandrade/turing/mod2/challenges/hogwarts_again/spec/models/professor_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
       "/Users/marianaandrade/turing/mod2/challenges/hogwarts_again/app/models/professor.rb": {
         "lines": [
           1,
@@ -284,6 +302,6 @@
         ]
       }
     },
-    "timestamp": 1585322264
+    "timestamp": 1585323353
   }
 }
